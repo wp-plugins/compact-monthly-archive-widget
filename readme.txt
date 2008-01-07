@@ -1,6 +1,5 @@
 === Compact Monthly Archive ===
 Contributors: OddThinking
-Donate link: http://somethinkodd.com/oddthinking/
 Tags: archives, widget, calendar
 Requires at least: 2.0.0
 Tested up to: 2.3.2
